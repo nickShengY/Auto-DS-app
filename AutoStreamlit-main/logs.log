@@ -1,0 +1,2259 @@
+2022-11-19 21:01:17,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:01:17,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:01:17,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:01:17,419:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:15:58,156:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:15:58,156:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:15:58,157:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:15:58,157:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:18:19,673:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:18:19,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:18:19,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:18:19,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:20:53,149:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:20:53,149:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:20:53,149:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:20:53,149:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:21:47,266:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:21:47,266:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:21:47,266:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:21:47,266:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:24:13,373:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:24:13,375:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:24:13,376:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:24:13,376:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:25,729:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:25,731:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:25,733:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:25,734:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:58,392:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 21:25:59,642:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:59,644:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:59,645:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:25:59,646:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:28:18,570:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 21:28:19,687:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:28:19,688:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:28:19,689:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:28:19,691:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:30:22,330:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 21:30:23,661:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:30:23,662:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:30:23,664:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 21:30:23,665:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:19:52,127:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:19:53,260:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:19:53,262:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:19:53,263:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:19:53,264:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:33:04,456:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:33:05,531:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:33:05,533:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:33:05,534:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:33:05,535:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:35:58,064:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:35:59,131:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:35:59,133:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:35:59,134:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:35:59,135:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:36:51,454:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:36:52,572:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:36:52,573:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:36:52,575:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:36:52,576:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:41:09,825:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:41:10,867:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:41:10,868:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:41:10,869:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:41:10,870:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:51:42,182:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:51:43,240:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:51:43,242:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:51:43,243:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:51:43,244:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:53:51,592:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:53:52,629:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:53:52,631:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:53:52,632:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:53:52,633:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:55:30,452:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:55:31,502:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:55:31,504:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:55:31,505:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:55:31,506:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:56:53,756:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-19 23:56:54,807:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:56:54,809:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:56:54,810:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-19 23:56:54,811:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:11:11,672:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 00:11:12,721:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:11:12,723:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:11:12,724:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:11:12,725:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:14:15,200:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 00:14:16,277:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:14:16,279:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:14:16,280:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:14:16,282:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:15:22,343:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 00:15:23,384:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:15:23,386:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:15:23,387:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:15:23,388:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:16:59,627:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 00:17:00,664:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:17:00,666:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:17:00,667:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:17:00,668:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:18:15,486:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 00:18:16,561:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:18:16,563:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:18:16,564:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 00:18:16,564:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:57:04,001:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 10:57:05,583:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:57:05,585:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:57:05,587:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:57:05,588:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:58:19,803:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 10:58:21,031:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:58:21,034:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:58:21,035:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 10:58:21,038:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:02:31,380:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 11:02:32,653:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:02:32,656:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:02:32,657:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:02:32,658:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:08:16,884:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 11:08:18,113:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:08:18,115:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:08:18,116:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:08:18,118:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:10:35,014:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 11:10:36,293:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:10:36,327:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:10:36,328:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:10:36,330:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:11:57,847:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 11:11:59,075:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:11:59,077:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:11:59,079:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:11:59,080:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:13:16,004:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 11:13:17,321:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:13:17,323:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:13:17,324:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:13:17,325:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:16:53,072:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 11:16:54,316:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:16:54,318:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:16:54,319:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 11:16:54,321:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:55:02,950:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 13:55:03,982:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:55:03,984:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:55:03,985:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:55:03,986:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:57:59,717:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 13:58:00,734:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:58:00,736:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:58:00,737:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:58:00,738:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:59:30,112:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 13:59:31,105:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:59:31,106:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:59:31,107:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 13:59:31,108:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:00:32,263:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:00:33,253:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:00:33,255:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:00:33,256:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:00:33,257:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:05:01,704:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:05:02,699:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:05:02,701:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:05:02,702:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:05:02,703:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:07:58,635:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:07:59,621:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:07:59,622:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:07:59,623:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:07:59,624:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:11:30,019:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:11:31,091:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:11:31,093:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:11:31,094:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:11:31,095:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:16:24,728:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:16:25,854:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:16:25,855:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:16:25,857:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:16:25,858:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:19:30,257:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:19:31,303:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:19:31,305:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:19:31,306:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:19:31,307:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:21:47,870:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:21:48,875:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:21:48,877:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:21:48,878:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:21:48,879:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:23:21,131:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:23:22,117:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:23:22,119:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:23:22,120:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:23:22,121:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:28:26,621:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:28:27,635:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:28:27,637:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:28:27,638:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:28:27,639:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:31:20,541:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 14:31:21,529:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:31:21,531:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:31:21,532:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 14:31:21,533:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:22:16,194:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 16:22:17,303:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:22:17,304:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:22:17,305:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:22:17,306:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:24:41,732:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 16:24:42,742:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:24:42,743:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:24:42,744:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:24:42,745:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:27:49,592:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 16:27:50,612:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:27:50,614:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:27:50,615:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:27:50,616:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:29:10,355:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 16:29:11,360:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:29:11,362:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:29:11,363:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:29:11,364:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:33:36,579:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 16:33:37,603:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:33:37,606:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:33:37,607:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:33:37,608:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:37:09,584:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 16:37:10,647:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:37:10,649:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:37:10,650:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 16:37:10,651:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 22:00:58,321:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 22:00:59,542:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 22:00:59,544:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 22:00:59,545:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 22:00:59,546:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:35:01,757:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 23:35:02,872:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:35:02,874:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:35:02,875:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:35:02,877:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:38:44,160:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 23:38:45,217:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:38:45,219:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:38:45,220:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:38:45,221:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:40:09,363:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 23:40:10,436:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:40:10,438:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:40:10,439:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:40:10,440:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:07,999:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 23:55:09,074:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:09,076:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:09,076:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:09,077:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:52,757:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 23:55:53,788:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:53,790:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:53,791:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:55:53,792:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:57:13,748:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-20 23:57:14,844:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:57:14,846:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:57:14,847:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-20 23:57:14,847:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:02:03,445:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:02:04,474:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:02:04,475:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:02:04,476:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:02:04,477:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:04:36,950:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:04:37,992:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:04:37,993:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:04:37,994:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:04:37,995:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:06:39,855:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:06:40,889:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:06:40,890:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:06:40,891:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:06:40,892:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:10:32,187:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:10:33,256:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:10:33,257:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:10:33,258:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:10:33,259:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:26:50,326:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:26:51,359:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:26:51,360:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:26:51,361:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:26:51,362:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:31:23,258:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:31:24,314:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:31:24,315:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:31:24,316:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:31:24,317:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:32:25,105:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:32:26,152:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:32:26,154:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:32:26,155:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:32:26,155:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:34:06,739:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:34:07,801:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:34:07,802:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:34:07,803:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:34:07,804:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:35:38,635:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:35:39,824:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:35:39,826:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:35:39,827:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:35:39,828:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:41:26,179:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:41:27,286:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:41:27,287:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:41:27,289:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:41:27,290:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:42:07,078:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:42:08,142:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:42:08,144:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:42:08,145:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:42:08,146:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:45:50,495:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:45:51,558:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:45:51,559:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:45:51,560:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:45:51,561:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:49:50,532:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 00:49:51,550:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:49:51,552:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:49:51,553:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:49:51,554:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:51:16,020:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:51:16,021:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:51:16,022:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:51:16,023:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:52:19,071:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:52:19,073:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:52:19,074:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 00:52:19,075:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:00:14,672:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:00:16,079:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:00:16,081:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:00:16,082:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:00:16,084:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:01:33,188:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:01:34,488:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:01:34,529:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:01:34,530:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:01:34,532:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:17:05,080:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:17:06,449:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:17:06,451:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:17:06,453:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:17:06,454:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:18:09,262:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:18:10,659:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:18:10,662:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:18:10,664:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:18:10,666:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:19:39,644:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:19:40,962:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:19:40,964:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:19:40,966:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:19:40,967:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:29:52,997:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:29:54,308:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:29:54,311:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:29:54,312:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:29:54,316:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:36:10,084:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:36:11,460:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:36:11,463:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:36:11,464:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:36:11,465:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:40:04,953:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:40:06,289:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:40:06,291:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:40:06,293:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:40:06,294:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:55:12,541:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:55:13,995:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:55:13,997:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:55:13,999:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:55:14,000:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:57:07,719:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:57:09,029:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:57:09,031:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:57:09,032:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:57:09,033:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:59:06,052:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 10:59:07,372:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:59:07,374:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:59:07,376:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 10:59:07,377:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:03:25,125:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 11:03:26,443:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:03:26,445:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:03:26,446:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:03:26,447:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:12:49,736:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 11:12:51,022:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:12:51,024:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:12:51,026:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:12:51,027:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:26:49,196:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 11:26:50,530:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:26:50,532:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:26:50,534:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:26:50,535:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:50:26,675:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 11:50:27,995:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:50:27,997:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:50:27,999:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 11:50:28,001:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:19:23,222:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:19:24,279:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:19:24,280:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:19:24,281:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:19:24,282:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:20:18,331:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:20:19,356:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:20:19,357:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:20:19,358:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:20:19,359:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:22:09,463:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:22:10,474:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:22:10,475:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:22:10,476:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:22:10,478:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:23:57,718:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:23:58,736:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:23:58,738:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:23:58,739:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:23:58,740:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:24:34,307:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:24:35,327:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:24:35,328:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:24:35,329:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:24:35,330:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:26:31,435:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:26:32,449:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:26:32,451:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:26:32,452:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:26:32,453:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:27:31,801:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:27:32,827:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:27:32,829:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:27:32,830:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:27:32,831:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:28:10,531:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:28:11,555:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:28:11,556:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:28:11,557:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:28:11,558:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:29:23,508:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:29:24,528:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:29:24,530:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:29:24,531:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:29:24,532:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:33:12,421:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 12:33:13,451:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:33:13,453:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:33:13,454:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 12:33:13,455:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:06:22,504:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:06:23,532:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:06:23,534:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:06:23,535:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:06:23,535:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:12:26,667:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:12:27,702:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:12:27,704:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:12:27,705:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:12:27,706:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:16:27,717:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:16:28,881:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:16:28,883:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:16:28,884:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:16:28,885:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:19:05,920:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:19:06,973:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:19:06,975:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:19:06,976:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:19:06,977:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:21:45,652:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:21:46,687:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:21:46,689:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:21:46,690:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:21:46,691:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:24:19,057:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:24:20,085:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:24:20,087:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:24:20,088:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:24:20,089:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:25:48,911:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:25:49,928:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:25:49,930:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:25:49,930:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:25:49,931:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:29:31,056:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:29:32,115:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:29:32,117:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:29:32,118:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:29:32,118:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:31:25,306:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:31:26,323:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:31:26,325:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:31:26,326:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:31:26,326:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:37:11,365:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:37:12,452:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:37:12,454:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:37:12,456:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:37:12,457:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:39:36,251:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:39:37,308:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:39:37,309:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:39:37,310:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:39:37,311:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:45:21,299:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:45:22,315:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:45:22,317:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:45:22,318:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:45:22,319:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:50:56,876:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:50:57,885:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:50:57,887:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:50:57,888:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:50:57,889:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:52:58,630:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:52:59,670:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:52:59,671:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:52:59,672:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:52:59,673:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:54:09,400:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:54:10,469:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:54:10,471:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:54:10,472:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:54:10,473:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:56:19,164:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:56:20,211:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:56:20,213:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:56:20,214:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:56:20,215:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:58:41,762:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:58:42,816:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:58:42,818:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:58:42,819:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:58:42,820:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:59:54,348:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 13:59:55,358:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:59:55,360:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:59:55,361:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 13:59:55,362:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:03:02,320:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:03:03,364:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:03:03,366:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:03:03,367:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:03:03,367:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:04:30,864:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:04:31,880:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:04:31,882:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:04:31,883:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:04:31,884:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:08:20,784:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:08:21,827:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:08:21,828:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:08:21,829:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:08:21,830:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:26:42,025:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:26:43,085:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:26:43,087:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:26:43,088:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:26:43,089:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:30:20,827:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:30:21,917:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:30:21,918:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:30:21,919:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:30:21,920:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:32:23,304:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:32:24,341:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:32:24,342:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:32:24,343:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:32:24,344:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:34:59,322:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:35:00,356:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:35:00,358:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:35:00,359:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:35:00,360:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:37:30,509:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:37:31,583:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:37:31,585:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:37:31,586:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:37:31,587:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:38:49,656:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:38:50,703:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:38:50,704:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:38:50,705:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:38:50,706:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:43:23,572:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:43:24,676:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:43:24,677:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:43:24,678:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:43:24,679:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:49:12,518:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:49:13,593:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:49:13,595:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:49:13,596:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:49:13,597:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:53:54,975:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:53:56,013:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:53:56,015:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:53:56,016:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:53:56,017:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:59:05,283:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 14:59:06,343:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:59:06,344:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:59:06,345:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 14:59:06,346:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:01:12,229:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:01:13,366:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:01:13,368:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:01:13,369:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:01:13,370:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:30,306:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:02:31,324:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:31,325:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:31,326:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:31,327:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:54,845:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:02:55,873:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:55,875:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:55,876:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:02:55,876:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:17,929:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:04:18,949:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:18,951:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:18,953:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:18,955:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:55,068:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:04:56,107:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:56,109:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:56,110:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:04:56,111:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:05:26,807:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:05:27,818:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:05:27,820:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:05:27,821:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:05:27,822:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:06:15,411:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:06:16,481:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:06:16,483:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:06:16,484:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:06:16,485:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:09:32,124:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:09:33,202:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:09:33,203:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:09:33,204:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:09:33,205:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:10:22,073:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:10:23,113:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:10:23,115:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:10:23,116:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:10:23,117:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:11,933:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:11:12,959:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:12,960:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:12,961:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:12,962:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:48,867:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:11:49,998:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:50,000:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:50,001:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:11:50,002:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:16:35,173:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:16:36,261:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:16:36,263:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:16:36,264:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:16:36,265:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:50:01,299:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:50:02,338:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:50:02,340:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:50:02,341:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:50:02,342:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:59:43,640:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 15:59:44,738:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:59:44,740:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:59:44,741:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 15:59:44,742:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:11:32,593:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 16:11:33,637:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:11:33,638:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:11:33,639:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:11:33,640:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:20:50,037:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 16:20:51,144:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:20:51,145:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:20:51,147:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:20:51,148:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:40:05,014:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 16:40:06,154:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:40:06,156:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:40:06,157:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 16:40:06,158:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:02:01,424:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 17:02:02,479:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:02:02,480:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:02:02,481:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:02:02,483:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:26:33,536:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 17:26:34,722:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:26:34,724:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:26:34,725:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 17:26:34,726:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 18:58:26,066:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 18:58:27,245:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 18:58:27,247:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 18:58:27,249:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 18:58:27,250:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:16:57,114:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 19:16:58,264:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:16:58,266:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:16:58,268:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:16:58,270:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:21:46,385:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 19:21:47,576:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:21:47,578:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:21:47,579:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:21:47,580:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:34:35,470:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 19:34:36,699:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:34:36,701:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:34:36,703:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:34:36,704:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:37:11,076:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 19:37:12,213:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:37:12,215:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:37:12,216:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 19:37:12,218:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:42:42,479:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:42:44,800:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:42:44,803:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:42:44,806:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:42:44,809:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:43:03,430:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:43:05,799:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:43:05,804:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:43:05,807:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:43:05,810:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:45:36,684:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:45:38,981:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:45:38,990:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:45:38,994:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:45:38,997:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:47:05,932:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:47:08,207:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:47:08,210:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:47:08,213:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:47:08,216:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:49:56,354:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:49:58,764:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:49:58,769:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:49:58,772:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:49:58,775:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:51:00,595:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:51:02,940:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:51:02,945:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:51:02,948:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:51:02,951:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:57:40,324:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-21 20:57:42,700:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:57:42,703:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:57:42,706:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-21 20:57:42,709:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:39:25,173:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 14:39:26,697:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:39:26,699:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:39:26,701:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:39:26,702:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:48:11,895:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 14:48:13,056:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:48:13,058:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:48:13,060:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:48:13,061:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:50:45,191:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 14:50:46,312:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:50:46,314:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:50:46,316:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:50:46,317:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:51:38,069:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 14:51:39,216:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:51:39,218:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:51:39,219:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 14:51:39,221:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:02:08,142:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:02:10,295:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:02:10,298:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:02:10,301:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:02:10,304:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:05:30,554:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:05:31,427:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:05:31,429:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:05:31,430:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:05:31,431:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:06:54,455:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:06:55,277:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:06:55,279:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:06:55,280:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:06:55,281:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:08:48,855:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:08:49,751:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:08:49,752:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:08:49,753:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:08:49,754:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:09:18,998:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:09:19,828:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:09:19,830:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:09:19,830:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:09:19,831:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:10:37,077:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:10:37,911:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:10:37,913:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:10:37,914:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:10:37,915:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:21:27,527:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:21:28,363:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:21:28,365:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:21:28,366:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:21:28,367:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:30:42,867:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:30:43,870:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:30:43,871:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:30:43,873:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:30:43,874:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:35:28,224:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:35:29,069:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:35:29,070:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:35:29,071:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:35:29,072:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:37:16,920:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:37:17,774:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:37:17,776:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:37:17,776:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:37:17,777:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:46:04,941:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:46:05,950:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:46:05,952:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:46:05,953:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:46:05,954:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:48:07,734:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 15:48:08,675:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:48:08,677:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:48:08,678:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 15:48:08,680:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:01:12,317:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 16:01:13,187:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:01:13,189:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:01:13,190:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:01:13,190:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:17:48,392:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 16:17:49,254:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:17:49,255:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:17:49,256:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:17:49,257:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:25:22,023:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 16:25:22,841:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:25:22,842:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:25:22,843:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:25:22,844:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:29:50,018:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 16:29:50,866:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:29:50,868:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:29:50,869:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 16:29:50,870:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:14:55,201:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 17:14:56,044:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:14:56,046:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:14:56,047:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:14:56,048:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:18:41,237:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 17:18:42,061:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:18:42,063:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:18:42,064:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:18:42,065:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:20:02,888:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 17:20:05,110:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:20:05,112:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:20:05,113:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 17:20:05,115:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:15:24,822:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:15:25,706:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:15:25,708:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:15:25,709:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:15:25,710:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:19:00,804:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:19:01,643:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:19:01,645:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:19:01,646:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:19:01,646:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:21:11,357:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:21:12,199:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:21:12,201:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:21:12,202:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:21:12,203:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:35:58,425:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:35:59,295:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:35:59,297:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:35:59,298:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:35:59,298:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:38:46,238:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:38:47,114:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:38:47,116:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:38:47,117:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:38:47,118:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:40:38,288:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:40:39,132:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:40:39,134:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:40:39,135:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:40:39,136:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:42,593:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:44:43,449:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:43,451:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:43,452:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:43,453:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:54,868:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:44:55,714:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:55,715:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:55,716:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:44:55,717:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:49:25,362:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:49:26,254:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:49:26,255:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:49:26,256:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:49:26,257:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:55:59,416:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:56:00,269:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:56:00,270:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:56:00,271:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:56:00,272:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:57:57,421:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-22 23:57:58,330:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:57:58,332:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:57:58,333:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-22 23:57:58,334:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:01:05,849:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:01:06,696:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:01:06,697:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:01:06,698:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:01:06,699:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:03:47,241:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:03:48,082:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:03:48,084:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:03:48,085:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:03:48,086:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:06:36,926:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:06:37,762:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:06:37,764:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:06:37,765:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:06:37,766:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:09:35,871:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:09:36,732:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:09:36,733:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:09:36,734:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:09:36,735:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:24:04,075:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:24:04,932:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:24:04,933:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:24:04,934:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:24:04,935:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:27:23,146:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:27:24,006:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:27:24,008:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:27:24,009:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:27:24,010:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:31:27,447:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:31:28,363:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:31:28,364:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:31:28,366:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:31:28,367:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:47:30,783:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:47:31,650:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:47:31,652:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:47:31,653:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:47:31,654:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:50:26,272:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:50:27,138:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:50:27,140:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:50:27,141:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:50:27,142:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:52:03,606:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 00:52:04,453:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:52:04,455:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:52:04,456:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 00:52:04,457:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:11:24,793:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:11:25,763:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:11:25,765:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:11:25,766:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:11:25,766:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:33:54,193:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:33:55,166:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:33:55,168:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:33:55,169:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:33:55,170:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:34:52,345:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:34:53,300:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:34:53,302:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:34:53,302:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:34:53,303:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:39:05,352:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:39:06,408:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:39:06,410:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:39:06,411:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:39:06,412:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:40:45,778:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:40:46,772:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:40:46,773:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:40:46,774:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:40:46,775:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:43:46,964:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:43:47,932:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:43:47,934:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:43:47,935:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:43:47,936:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:47:05,733:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:47:06,727:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:47:06,729:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:47:06,730:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:47:06,731:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:49:15,692:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:49:16,658:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:49:16,660:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:49:16,661:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:49:16,662:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:51:19,440:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:51:20,404:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:51:20,406:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:51:20,407:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:51:20,408:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:54:32,238:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:54:33,200:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:54:33,201:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:54:33,203:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:54:33,203:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:55:35,556:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:55:36,542:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:55:36,544:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:55:36,545:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:55:36,546:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:59:39,330:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 01:59:40,314:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:59:40,315:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:59:40,316:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 01:59:40,317:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:01:38,747:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:01:39,728:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:01:39,729:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:01:39,730:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:01:39,731:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:02:58,289:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:02:59,330:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:02:59,332:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:02:59,333:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:02:59,334:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:04:18,602:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:04:19,609:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:04:19,611:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:04:19,612:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:04:19,613:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:05:43,408:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:05:44,485:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:05:44,487:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:05:44,488:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:05:44,489:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:26,983:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:06:27,937:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:27,939:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:27,940:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:27,941:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:35,040:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:06:36,061:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:36,063:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:36,064:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:06:36,064:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:07:16,802:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:07:17,839:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:07:17,841:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:07:17,842:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:07:17,843:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:08:38,185:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:08:39,529:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:08:39,531:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:08:39,532:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:08:39,533:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:11:26,117:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:11:27,112:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:11:27,113:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:11:27,114:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:11:27,115:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:13:19,247:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:13:20,229:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:13:20,230:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:13:20,231:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:13:20,232:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:15:55,338:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:15:56,325:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:15:56,327:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:15:56,328:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:15:56,328:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:10,130:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:17:11,127:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:11,128:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:11,129:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:11,130:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:52,479:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:17:53,482:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:53,484:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:53,485:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:17:53,486:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:20:01,911:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:20:02,872:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:20:02,874:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:20:02,875:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:20:02,876:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:23:59,182:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:24:00,135:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:24:00,137:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:24:00,138:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:24:00,139:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:26:00,760:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:26:01,715:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:26:01,716:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:26:01,717:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:26:01,718:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:27:22,553:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:27:23,537:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:27:23,538:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:27:23,539:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:27:23,540:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:28:45,659:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:28:46,709:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:28:46,711:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:28:46,712:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:28:46,713:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:29:43,574:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:29:44,538:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:29:44,540:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:29:44,541:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:29:44,541:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:30:25,145:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:30:26,116:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:30:26,118:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:30:26,119:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:30:26,119:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:31:34,613:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:31:35,572:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:31:35,574:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:31:35,575:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:31:35,576:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:36:47,741:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:36:48,728:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:36:48,730:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:36:48,731:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:36:48,732:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:38:30,257:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:38:31,221:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:38:31,222:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:38:31,223:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:38:31,224:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:40:32,476:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:40:33,436:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:40:33,438:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:40:33,439:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:40:33,440:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:41:55,975:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:41:57,045:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:41:57,047:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:41:57,047:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:41:57,048:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:51:59,227:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:52:00,183:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:52:00,185:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:52:00,186:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:52:00,187:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:54:00,654:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:54:01,633:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:54:01,634:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:54:01,635:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:54:01,636:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:56:12,649:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 02:56:13,950:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:56:13,952:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:56:13,953:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 02:56:13,954:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:00:09,363:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 03:00:10,384:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:00:10,385:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:00:10,386:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:00:10,387:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:09:48,730:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 03:09:49,706:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:09:49,708:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:09:49,709:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:09:49,710:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:12:55,199:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 03:12:56,172:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:12:56,174:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:12:56,175:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:12:56,176:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:16:03,421:INFO:Sof dependency imported: prophet: 1.1.1
+2022-11-23 03:16:04,401:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:16:04,402:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:16:04,403:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-11-23 03:16:04,404:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-01 11:17:37,884:INFO:Sof dependency imported: prophet: 1.1.1
+2022-12-01 11:17:39,960:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-01 11:17:39,962:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-01 11:17:39,964:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-01 11:17:39,966:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:20:59,294:INFO:Sof dependency imported: prophet: 1.1.1
+2022-12-11 13:21:00,628:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:21:00,629:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:21:00,631:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:21:00,632:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:28:43,009:INFO:Sof dependency imported: prophet: 1.1.1
+2022-12-11 13:28:44,065:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:28:44,067:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:28:44,068:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2022-12-11 13:28:44,068:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-06 18:24:54,328:INFO:Sof dependency imported: prophet: 1.1.1
+2023-02-06 18:24:56,422:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-06 18:24:56,424:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-06 18:24:56,426:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-02-06 18:24:56,428:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
