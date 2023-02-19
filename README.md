@@ -45,7 +45,7 @@ The input will be erased each time user input an input in any phase of the app. 
 Later Version will support model fine tune, and features engineering. User will have more control on the modelling process.   
 Later Version will allow user to see the evaluation of selected model. User will have a better understanding of the features importance in the classification process.  
 Later Version will allow user to input PyCaret setup options.  
-
+Will handle exceptions in a more elegant way.  
 
 
 #### Acknowledgement:  
