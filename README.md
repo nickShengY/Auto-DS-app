@@ -58,7 +58,7 @@ This will allow the user to download the model from the app. The model will be i
 ## 2, Problems, Difficulties, Future Version Outlooks:  
 ### Problems:  
 The biggest problem is the dependencies.  
-The inadaptibility of PyCaret, new Numpy and the Streamlit is the major bottle neck of this project. The PyCaret use the Python Notebook Ipywidget to output the interactive graphs and tables. However, the streamlit does not support this in the lastest version due to, according to one of the developer Ali, security issues. Hopefully ther will be a better solution that can either overcome this or to bypass it.  
+The inadaptibility of PyCaret, new Numpy and the Streamlit is the major bottle neck of this project. The PyCaret use the Python Notebook Ipywidget to output the interactive graphs and tables. However, the streamlit does not support this in the lastest version due to, according to one of the developer Ali, security issues. Hopefully there will be a better solution that can either overcome this or to bypass it.  
 The I/O stream output is not allowed in any format in the streamlit app.  
 User will sometime recieve an installation error of the pycaret caused by the inadaptibility of the PyCaret and Numpy. In this version, the app is using the PyCaret==3.0.0rc8, which is the lastest package, because we want to include auto time-series and recommendation in the future version.  
 ### Difficulties:  
@@ -69,9 +69,6 @@ Later Version will support model fine tune, and features engineering. User will 
 Later Version will allow user to see the evaluation of selected model. User will have a better understanding of the features importance in the classification process.  
 Later Version will allow user to input PyCaret setup options.  
 Will handle exceptions in a more elegant way.  
-
-
-#### Acknowledgement:  
-Big thanks to Nick's Youtube channel @NicholasRenotte providing such a great idea of making this tool.   
+ 
 
 
